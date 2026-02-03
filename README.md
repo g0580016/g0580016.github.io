@@ -1,4 +1,3 @@
-
 # Can AI and data actually help us build a more sustainable future?
 
 The problems we’re facing—climate change, shrinking resources, and environmental damage—are huge. But there’s a silver lining: satellite data, coding, and AI give us tools to make real change. Pair that with creative, driven people tackling challenges on a global stage, and suddenly the impossible starts to feel possible.
